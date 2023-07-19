@@ -95,5 +95,3 @@ function alternateTableColor(){
   $('tbody tr:visible:even').css("background-color", "#f3f3f3")
   $('tbody tr:visible:odd').css("background-color", "white")
 }
-
-
